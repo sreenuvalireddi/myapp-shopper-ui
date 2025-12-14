@@ -1,0 +1,17 @@
+node_modules/
+.vite/
+.env
+.DS_Store
+dist/
+coverage/
+npm-debug.log*
+yarn-error.log*
+/.idea/
+/.vscode/
+*.local
+*.log
+/.pnp
+/.pnp.js
+.parcel-cache/
+/.cache/
+!.gitkeep

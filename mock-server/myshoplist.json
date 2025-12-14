@@ -1,0 +1,14 @@
+{
+  "shops": [
+    { "id": 1, "name": "Tech Store", "location": "Downtown", "rating": 4.5 },
+    { "id": 2, "name": "Fashion Hub", "location": "Mall", "rating": 4.2 },
+    { "id": 3, "name": "Corner Market", "location": "Suburb", "rating": 4.0 },
+    { "id": 4, "name": "Fresh Mart", "location": "123 Main St, Downtown", "rating": 4.7 },
+    { "id": 5, "name": "QuickStop", "location": "456 Oak Ave, Midtown", "rating": 4.3 },
+    { "id": 6, "name": "Gourmet Groceries", "location": "789 Pine Rd, Uptown", "rating": 4.6 },
+    { "id": 7, "name": "Budget Bazaar", "location": "654 Maple Dr, Westside", "rating": 3.9 },
+    { "id": 8, "name": "Local Market", "location": "987 Cedar Ln, Suburbs", "rating": 4.4 },
+    { "id": 9, "name": "Premium Plus", "location": "147 Birch Ct, Downtown", "rating": 4.8 },
+    { "id": 10, "name": "Super Save", "location": "741 Spruce Pl, Harbor", "rating": 4.1 }
+  ]
+}
